@@ -12,14 +12,11 @@ engine — all wired together behind a SQL REPL.
 
 ## Team
 
-> **Team name:** `Team_PageFault`  &nbsp;*(placeholder — replace with your real team name, and rename this directory + the PR title `TEAM_<NAME>` to match)*
+> **Team name:** `Team_PageFault`
 
 | Full Name | SCALER ID | Email |
 | --------- | --------- | ----- |
-| _TODO_    | SCALER_____ | _____@scaler.com |
-| _TODO_    | SCALER_____ | _____@scaler.com |
-| _TODO_    | SCALER_____ | _____@scaler.com |
-| _TODO_    | SCALER_____ | _____@scaler.com |
+| Rudray Mehra | 24BCS10425 | rudray.24bcs10425@sst.scaler.com |
 
 ---
 
